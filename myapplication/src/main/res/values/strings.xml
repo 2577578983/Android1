@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">未登录</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">视频</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yinyue">音乐</string>
+    <string name="collectionner">收藏</string>
+    <string name="set">设置</string>
+    <string name="regard">关于</string>
+    <string name="home_page">首页</string>
+
+
+</resources>

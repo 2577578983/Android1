@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  <color name="colorPrimary">#008577</color>
+      <color name="colorPrimaryDark">#00574B</color>
+      <color name="colorAccent">#D81B60</color>-->
+    <color name="c_e7e7e7">#cfb0b0</color>
+    <color name="c_636363">#fff0</color>
+    <color name="theme_primary">#70fd54</color>
+    <color name="white">#00ffffff</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--  <attr name="mainBackground" format="color|reference"></attr>-->
+
+
+    <color name="nightColorPrimary">#3b3b3b</color>
+    <color name="nightColorPrimaryDark">#383838</color>
+    <color name="nightColorAccent">#a72b55</color>
+
+    <color name="textColor">#3b3b3b</color>
+    <color name="textColor_night">#FFFFFF</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="backgroundColor_night">#3b3b3b</color>
+    <color name="hei">#000</color>
+
+</resources>
